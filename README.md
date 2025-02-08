@@ -47,5 +47,3 @@ A new GUI with several new features and design changes
 ### [Voyage](voyage)
 
 ### [Workshop](workshop)
-
-[^1] Not actually designed for mobile
