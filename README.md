@@ -3,7 +3,10 @@
 ## [Gui](gui.js)
 A GUI containing every cheat in a menu
 &nbsp;
+## [Bookmarklets](Bookmarklets.html)
+The bookmark file can add all the cheats as individual bookmarklets to your browser.
 ### [Brawl](brawl)
+
 
 ### [Cafe](cafe)
 
