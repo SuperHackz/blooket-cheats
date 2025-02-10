@@ -1,25 +1,3 @@
-/**
- * @license AGPL-3.0
- * Blooket Cheats
- * Copyright (C) 2023-present 05Konz
- * This program is free software: you can redistribute it and/or modify
- * it under the terms of the GNU Affero General Public License as published
- * by the Free Software Foundation, either version 3 of the License, or
- * (at your option) any later version.
- * 
- * This program is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * GNU Affero General Public License for more details.
- * 
- * You should have received a copy of the GNU Affero General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
- * 
- * Source: https://github.com/Blooket-Council/Blooket-Cheats 05konz994@gmail.com
-*/
-
-/* THE UPDATE CHECKER IS ADDED DURING COMMIT PREP, THERE MAY BE REDUNDANT CODE, DO NOT TOUCH */
-
 (() => {
     let iframe = document.querySelector("iframe");
     if (!iframe) {
@@ -108,7 +86,7 @@
         const credit = document.createElement("div");
         credit.className = classes.credit;
         
-        credit.innerText = "Created by 05Konz";
+        credit.innerText = "Created by SuperHackz";
         const sidebar = document.createElement("div");
         sidebar.className = classes.sidebar;
         
@@ -121,7 +99,7 @@
         
         const version = document.createElement("span");
         version.className = classes.version;
-        version.innerText = "05Konz - Blooket GUI " + versionName;
+        version.innerText = "SuperHackz - Blooket GUI " + versionName;
         guiTopBar.append(version);
         
         const controls = document.createElement("div");
@@ -3321,14 +3299,13 @@
         const copyrightTag = document.createElement("span");
         copyrightTag.className = classes.copyrightTag;
         
-        copyrightTag.innerText = `Copyright © ${new Date().getFullYear()} 05Konz`;
+        copyrightTag.innerText = `By SuperHackz`;
         
         const codingCredits = document.createElement("ul");
         codingCredits.className = classes.codingCredits;
         
-        codingCredits.append(createCredit("GUI Design + Creation", "05Konz"));
-        codingCredits.append(createCredit("Anti-Suspend", "CryptoDude3"));
-        codingCredits.append(createCredit("Blooket Cheats", 'gliz <i class="fas fa-long-arrow-alt-right"></i> Minesraft2 <i class="fas fa-long-arrow-alt-right"></i> 05Konz'));
+        codingCredits.append(createCredit("GUI Design + Creation", "SuperHackz"));
+        codingCredits.append(createCredit
         
         const creditLinks = document.createElement("ul");
         creditLinks.className = classes.creditLinks;
