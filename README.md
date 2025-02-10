@@ -2,8 +2,7 @@
 
 ## [Gui](gui.js)
 A GUI containing every cheat in a menu
-
-
+&nbsp;
 ### [Brawl](brawl)
 
 ### [Cafe](cafe)
