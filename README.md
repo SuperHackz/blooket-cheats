@@ -3,8 +3,6 @@
 ## [Gui](gui.js)
 A GUI containing every cheat in a menu
 
-## [React Gui](reactGui.js)
-A GUI written in React made to get around Blooket's anti-cheat
 
 ### [Brawl](brawl)
 
