@@ -5,6 +5,7 @@ A GUI containing every cheat in a menu
 &nbsp;
 ## [Bookmarklets](Bookmarklets.html)
 The bookmark file can add all the cheats as individual bookmarklets to your browser.
+A guide on how to do this can be found [here](https://knowledgenow.soton.ac.uk/Articles/KB0065580).
 ### [Brawl](brawl)
 
 
