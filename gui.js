@@ -208,7 +208,7 @@
                         fontWeight: "700",
                         userSelect: "text",
                     },
-                    innerHTML: "GitHub - SuperHacz",
+                    innerHTML: "GitHub - SuperHackz",
                     onclick: () => window.open("github.com/SuperHackz/blooket-cheats", "_blank").focus(),
                 }),
                 (controlButtons = createElement(
