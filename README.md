@@ -41,3 +41,5 @@ The bookmark file can add all the cheats as individual bookmarklets to your brow
 ### [Voyage](voyage)
 
 ### [Workshop](workshop)
+&nbsp;
+## If there is an issue with the code, [create an issue](https://github.com/SuperHackz/blooket-cheats/issues/new/choose).
